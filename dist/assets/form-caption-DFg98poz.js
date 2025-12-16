@@ -1,0 +1,1 @@
+import{k as o,S as a,n as s,l as i}from"./index-DL1FC2Xw.js";function t({caption:r}){return o.jsxs(a,{sx:{gap:1,display:"flex",flexDirection:"row",color:"text.disabled"},children:[o.jsx(s,{icon:"solar:danger-bold"}),o.jsx(i,{variant:"body2",children:r})]})}export{t as F};
