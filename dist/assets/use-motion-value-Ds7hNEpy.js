@@ -1,1 +1,0 @@
-import{h3 as a,hF as u,r as t,h2 as c}from"./index-DL1FC2Xw.js";function f(o){const e=a(()=>u(o)),{isStatic:s}=t.useContext(c);if(s){const[,n]=t.useState(o);t.useEffect(()=>e.on("change",n),[])}return e}export{f as u};

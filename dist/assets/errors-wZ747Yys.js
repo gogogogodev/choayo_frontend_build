@@ -1,1 +1,0 @@
-class t extends Error{constructor(r){super("Validation Error"),this.validationErrors=r,Object.setPrototypeOf(this,t.prototype)}}class o extends Error{constructor(r){super("Not Found Error"),this.validationErrors=r,Object.setPrototypeOf(this,o.prototype)}}export{t as C,o as a};
