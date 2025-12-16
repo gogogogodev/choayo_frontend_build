@@ -1,0 +1,1 @@
+import{k as o}from"./index-CtazL8yi.js";import{b as a}from"./TableRow-CfQY8bjO.js";import{T as n}from"./TableCell-DPzIV_vu.js";function s({text:r,colspan:e}){return o.jsx(a,{hover:!0,children:o.jsx(n,{sx:{whiteSpace:"nowrap"},align:"center",colSpan:e,children:r})})}export{s as T};

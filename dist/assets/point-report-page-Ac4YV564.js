@@ -1,0 +1,1 @@
+import{k as t,H as e,C as r,aE as s}from"./index-CtazL8yi.js";const a={title:`Reports - Point Report - ${r.site.name}`};function i(){return t.jsxs(t.Fragment,{children:[t.jsx(e,{children:t.jsxs("title",{children:[" ",a.title]})}),t.jsx(s,{maxWidth:"xl",children:"point report"})]})}export{i as default};

@@ -1,0 +1,1 @@
+import{k as r,as as i}from"./index-CtazL8yi.js";const e=o=>r.jsx(i,{sx:{borderBottom:o.orientation==="horizontal"?2.5:void 0,borderLeft:o.orientation==="vertical"?2.5:void 0,borderColor:"grey.700",...o.sx},...o});export{e as D};

@@ -1,0 +1,1 @@
+import{a as r,e as t}from"./index-CtazL8yi.js";const a=async()=>{try{return(await r.get(`${t.master.payment_method}`)).data}catch(e){throw console.error("PaymentMethodTypeGetList - error : ",e),new Error("unexpected error occurred")}};export{a as P};
